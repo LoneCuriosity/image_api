@@ -33,7 +33,7 @@ Copy the img.js into the API directory within the Next.js Project.
 Go to
 
 ```bash
-  http://website.com/api/subfolder/img.js?url=image.png
+  http://website.com/api/subfolder/img.js?url=image.png&width=512&height=512
 ```
 
 
@@ -51,6 +51,8 @@ Next.js, Node.js
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ramongarciajr.tech/)
 
+## 🔗 Demo
+[https://ramongarciajr.tech/](https://ramongarciajr.tech/api/e2/img?ImgURL=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/800px-Image_created_with_a_mobile_phone.png&width=512&height=512)https://ramongarciajr.tech/api/e2/img?ImgURL=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/800px-Image_created_with_a_mobile_phone.png&width=512&height=512
 
 ## Authors
 
