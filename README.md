@@ -21,7 +21,7 @@ There are certain aspects I aim to optimize within the system, particularly conc
 Clone the project
 
 ```bash
-  git clone https://github.com/LoneCuriosity/TAS_v2
+  git clone https://github.com/LoneCuriosity/image_api
 ```
 
 Copy the img.js into the API directory within the Next.js Project.
