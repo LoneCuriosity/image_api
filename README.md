@@ -21,19 +21,19 @@ There are certain aspects I aim to optimize within the system, particularly conc
 Clone the project
 
 ```bash
-  git clone https://github.com/LoneCuriosity/image_api
+git clone https://github.com/LoneCuriosity/image_api
 ```
 
 Copy the img.js into the API directory within the Next.js Project.
 
 ```bash
-  pages > api > subfolder > img.js
+pages > api > subfolder > img.js
 ```
 
 Go to
 
 ```bash
-  http://website.com/api/subfolder/img.js?url=image.png&width=512&height=512
+http://website.com/api/subfolder/img.js?url=image.png&width=512&height=512
 ```
 
 
